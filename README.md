@@ -2,7 +2,7 @@
 
 A web application designed to help users manage their workday with timers and a flexible task list. The application features a Workday Timer, a Focus Timer, and a task management system where tasks can be added, edited, completed, and reordered. It also provides a settings menu for customizing default timer values and enables users to optimize their workflow for productivity.
 
-You can access the live site here: [TimeForWork](https://andruwsorensen.github.io/TimeForWork/)
+You can access the live site here: [TimeForWork](https://andruwsorensen.github.io/TimeForWorkLegacy/)
 
 ---
 

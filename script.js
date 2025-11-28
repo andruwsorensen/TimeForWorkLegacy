@@ -10,10 +10,6 @@ document.addEventListener('DOMContentLoaded', () => {
     let breakTime = 17;
     let isBreak = false;
 
-    const yearSpan = document.getElementById('year');
-    const currentYear = new Date().getFullYear();
-    yearSpan.textContent = currentYear;
-
     const formatTime = (seconds, showHours = false) => {
         const hours = Math.floor(seconds / 3600);
         const minutes = Math.floor((seconds % 3600) / 60);
